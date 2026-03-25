@@ -1,0 +1,485 @@
+# =============================================================================
+# SEED QUESTIONS – Trung tâm Khám phá Khoa học Quy Nhơn
+# =============================================================================
+# Định dạng: Mỗi dòng = 1 câu hỏi thực tế. Dòng bắt đầu bằng # là ghi chú.
+# Simulator sẽ ưu tiên tạo câu trả lời cho các câu chưa có trong cache.
+# Cập nhật file này khi trung tâm bổ sung phòng, dịch vụ, thiết bị mới.
+# =============================================================================
+
+
+# ─────────────────────────────────────────────────────────────────────────────
+# NHÓM A: THÔNG TIN THAM QUAN CƠ BẢN (cao nhất ~30% lượng hỏi)
+# ─────────────────────────────────────────────────────────────────────────────
+
+# A1 – Giá vé & thanh toán
+Giá vé tham quan trung tâm khám phá khoa học là bao nhiêu?
+Vé cho trẻ em và người lớn có khác nhau không?
+Có vé combo bao gồm nhiều khu vực không?
+Có ưu đãi giảm giá vé cho học sinh sinh viên không?
+Người cao tuổi có được giảm giá vé không?
+Trẻ em dưới mấy tuổi được vào miễn phí?
+Có vé nhóm hoặc vé đoàn cho trường học không?
+Thanh toán vé bằng tiền mặt hay chuyển khoản?
+Có thể mua vé trực tuyến qua app hoặc website không?
+Giá vé xem phim tại rạp chiếu trong trung tâm là bao nhiêu?
+Vé thiên văn quan sát sao buổi tối giá bao nhiêu?
+Mua vé ở đâu trong trung tâm?
+
+# A2 – Giờ mở cửa & lịch hoạt động
+Trung tâm mở cửa và đóng cửa lúc mấy giờ?
+Trung tâm có mở cửa vào cuối tuần không?
+Thứ mấy trong tuần trung tâm nghỉ?
+Ngày lễ tết trung tâm có hoạt động không?
+Giờ chiếu phim cuối trong ngày là mấy giờ?
+Trung tâm đóng cửa lúc mấy giờ buổi tối?
+Có thể ở lại sau giờ đóng cửa để quan sát sao không?
+Buổi quan sát thiên văn ban đêm bắt đầu lúc mấy giờ?
+Có hoạt động gì vào buổi sáng sớm không?
+
+# A3 – Địa điểm & di chuyển
+Địa chỉ trung tâm khám phá khoa học Quy Nhơn ở đâu?
+Trung tâm nằm ở quận huyện nào của Quy Nhơn?
+Từ trung tâm thành phố đến đây đi mất bao lâu?
+Có xe buýt nào đến trung tâm không?
+Bãi đỗ xe ô tô ở đâu, có mất phí không?
+Có chỗ gửi xe máy không?
+Đi taxi hoặc grab đến đây được không?
+Gần trung tâm có khách sạn hay nhà hàng nào không?
+Có thể đến bằng xe đạp không, có chỗ gửi xe đạp không?
+
+# A4 – Quy định & tiện ích
+Có được chụp ảnh trong trung tâm không?
+Được phép quay phim trong trung tâm không?
+Mang đồ ăn thức uống vào tham quan được không?
+Trong trung tâm có căng-tin hay quán ăn không?
+Có tủ khóa gửi đồ cá nhân không?
+Cho phép mang thú cưng vào không?
+Có nhà vệ sinh ở những tầng nào?
+Có wifi miễn phí trong trung tâm không?
+Có ghế ngồi nghỉ ngơi ở khu vực nào không?
+Trung tâm có thang máy dành cho người khuyết tật không?
+Xe lăn và người khuyết tật tham quan có tiện không?
+Trẻ nhỏ dưới 3 tuổi vào tham quan có an toàn không?
+Có nhân viên bảo vệ và hỗ trợ trong toàn bộ khu vực không?
+Mất đồ hay cần hỗ trợ khẩn cấp thì liên hệ ai?
+Hotline hỗ trợ khách tham quan là bao nhiêu?
+
+# A5 – Sơ đồ & hướng dẫn đường đi
+Sơ đồ tổng thể trung tâm như thế nào?
+Từ lối vào đi đến phòng chiếu phim như thế nào?
+Phòng thiên văn ở tầng mấy?
+Khu trải nghiệm tương tác dành cho trẻ em ở đâu?
+Toilet gần phòng trưng bày chính ở chỗ nào?
+Lối thoát hiểm ở đâu trong trường hợp khẩn cấp?
+
+
+# ─────────────────────────────────────────────────────────────────────────────
+# NHÓM B: PHÒNG TRƯNG BÀY & KHU VỰC (~25% lượng hỏi)
+# ─────────────────────────────────────────────────────────────────────────────
+
+# B1 – Tổng quan các khu vực
+Trung tâm có bao nhiêu phòng trưng bày?
+Các khu vực chính trong trung tâm gồm những gì?
+Khu vực nào được yêu thích nhất?
+Khu vực nào phù hợp nhất cho trẻ em tiểu học?
+Khu vực nào dành cho học sinh trung học phổ thông?
+Nên tham quan theo thứ tự nào để hợp lý nhất?
+Mất bao lâu để tham quan toàn bộ trung tâm?
+
+# B2 – Phòng chiếu phim / Rạp khoa học
+Phòng chiếu phim trong trung tâm chiếu những bộ phim gì?
+Phòng chiếu phim sức chứa được bao nhiêu người?
+Phim chiếu có phụ đề tiếng Việt không?
+Có phim 3D hay phim vũ trụ 360 độ không?
+Một suất chiếu phim kéo dài bao lâu?
+Lịch chiếu phim trong tuần này như thế nào?
+Trẻ em mấy tuổi được vào xem phim?
+Có thể đặt suất chiếu riêng cho đoàn trường học không?
+Màn chiếu trong phòng rạp là loại gì?
+
+# B3 – Phòng / Đài thiên văn
+Đài thiên văn Quy Nhơn có gì đặc biệt?
+Kính thiên văn tại trung tâm là loại kính gì?
+Kính thiên văn có thể quan sát được những gì?
+Khi nào có thể quan sát mặt trăng qua kính thiên văn?
+Buổi tối quan sát sao có thường xuyên tổ chức không?
+Điều kiện thời tiết nào thích hợp để quan sát thiên văn?
+Có thể chụp ảnh qua kính thiên văn không?
+Phòng thiên văn trưng bày những mô hình gì?
+Trần nhà chiếu hình bầu trời sao là thật hay mô phỏng?
+Có hướng dẫn viên giải thích về các chòm sao không?
+
+# B4 – Phòng trưng bày vật lý & năng lượng
+Phòng năng lượng tái tạo giới thiệu những gì?
+Có mô hình pin mặt trời hoạt động thực tế không?
+Mô hình tuabin gió trong trung tâm hoạt động ra sao?
+Phòng vật lý có những thí nghiệm nào có thể tự thực hiện?
+Có trò chơi tương tác về điện từ trường không?
+Mô hình xe điện hay tàu từ trường có ở trung tâm không?
+
+# B5 – Phòng trưng bày sinh học & thiên nhiên
+Phòng sinh học trưng bày những mẫu vật gì?
+Có mô hình cơ thể người không?
+Trưng bày về các loài động thực vật biển Quy Nhơn không?
+Có khu vực về hệ sinh thái nhiệt đới không?
+Mẫu hóa thạch hay khủng long có được trưng bày không?
+
+# B6 – Khu trải nghiệm tương tác & STEM
+Khu vực thực hành thí nghiệm dành cho trẻ em ở đâu?
+Trẻ em có thể tự tay làm thí nghiệm gì?
+Có khu vực coding, lập trình robot không?
+Xưởng thực hành STEM có hoạt động như thế nào?
+Có trò chơi khoa học có thể chơi theo nhóm không?
+Workshop làm tên lửa nước hay thí nghiệm hóa học có không?
+
+
+# ─────────────────────────────────────────────────────────────────────────────
+# NHÓM C: CHƯƠNG TRÌNH & SỰ KIỆN (~10% lượng hỏi)
+# ─────────────────────────────────────────────────────────────────────────────
+
+Hôm nay trung tâm có những hoạt động và chương trình gì?
+Tuần này có sự kiện đặc biệt nào không?
+Tháng này có triển lãm hay workshop nào không?
+Trung tâm có tổ chức sinh nhật khoa học cho trẻ em không?
+Có chương trình dành riêng cho đoàn học sinh tham quan không?
+Làm thế nào để đăng ký một đoàn tham quan theo nhóm?
+Có chương trình ngoại khóa hợp tác với trường học không?
+Trung tâm có câu lạc bộ thiên văn học cho thanh thiếu niên không?
+Có lớp học về khoa học vũ trụ cuối tuần không?
+Sự kiện mưa sao băng hay nguyệt thực có tổ chức quan sát tập thể không?
+Có triển lãm lưu động hay sự kiện tạm thời nào đang diễn ra không?
+Trung tâm có tổ chức các cuộc thi khoa học cho học sinh không?
+Có chương trình học hè cho trẻ em không?
+Làm sao để đăng ký làm tình nguyện viên tại trung tâm?
+Trung tâm có hợp tác với các trường đại học trong vùng không?
+
+
+# ─────────────────────────────────────────────────────────────────────────────
+# NHÓM D: THIÊN VĂN HỌC – CHỦ ĐỀ CỐT LÕI (~15% lượng hỏi)
+# ─────────────────────────────────────────────────────────────────────────────
+
+# D1 – Hệ mặt trời
+Hệ mặt trời gồm những hành tinh nào?
+Hành tinh nào lớn nhất trong hệ mặt trời?
+Hành tinh nào nhỏ nhất trong hệ mặt trời?
+Sao Hỏa có màu đỏ vì sao?
+Sao Thổ có vành đai được tạo thành từ gì?
+Sao Mộc có bao nhiêu mặt trăng?
+Sao Kim nóng hơn sao Thủy dù ở xa Mặt Trời hơn, tại sao?
+Pluto có còn được coi là hành tinh không?
+Vành đai tiểu hành tinh nằm ở đâu trong hệ mặt trời?
+Mặt Trời chiếm bao nhiêu phần trăm khối lượng hệ mặt trời?
+Trái Đất quay một vòng quanh Mặt Trời mất bao lâu?
+Trái Đất tự quay một vòng quanh trục mất bao lâu?
+
+# D2 – Mặt Trăng
+Mặt Trăng hình thành như thế nào?
+Tại sao Mặt Trăng luôn quay một mặt về phía Trái Đất?
+Mặt tối của Mặt Trăng có gì?
+Mặt Trăng có bầu khí quyển không?
+Thủy triều có liên quan đến Mặt Trăng như thế nào?
+Con người đã đặt chân lên Mặt Trăng bao nhiêu lần?
+Tàu Apollo 11 hạ cánh ở đâu trên Mặt Trăng?
+Mặt Trăng có đang dần dịch xa Trái Đất không?
+Hố va chạm trên Mặt Trăng được tạo ra như thế nào?
+
+# D3 – Ngôi sao & vũ trụ
+Ngôi sao gần Trái Đất nhất là ngôi sao nào?
+Ánh sáng Mặt Trời mất bao lâu để đến Trái Đất?
+Tại sao ngôi sao ban đêm nhấp nháy?
+Ngôi sao được tạo ra như thế nào?
+Ngôi sao chết đi như thế nào?
+Siêu tân tinh là gì?
+Pulsar và sao neutron là gì?
+Lỗ đen được hình thành như thế nào?
+Lỗ đen có hút ánh sáng không?
+Dải ngân hà của chúng ta có hình dạng gì?
+Trái Đất nằm ở đâu trong dải ngân hà?
+Vũ trụ có bao nhiêu thiên hà?
+Big Bang là gì và xảy ra cách đây bao lâu?
+Vũ trụ đang giãn nở hay co lại?
+Năm ánh sáng là đơn vị đo gì?
+Khoảng cách từ Trái Đất đến Mặt Trăng là bao nhiêu?
+Khoảng cách từ Trái Đất đến Mặt Trời là bao nhiêu?
+
+# D4 – Hiện tượng thiên văn
+Nhật thực xảy ra như thế nào?
+Nguyệt thực xảy ra như thế nào?
+Nhật thực toàn phần khác nhật thực một phần như thế nào?
+Sao chổi là gì và tại sao có đuôi?
+Mưa sao băng là gì?
+Các chòm sao là gì và được đặt tên như thế nào?
+Tại sao các chòm sao thay đổi theo mùa?
+Hiện tượng cực quang bắc là gì?
+Siêu trăng là gì?
+Trăng máu là gì?
+Kính viễn vọng không gian James Webb khám phá được gì mới nhất?
+Sứ mệnh Artemis của NASA có mục tiêu gì?
+Người Mars đã từng tồn tại chưa?
+Sao Hỏa có thể trở thành nơi con người ở được không?
+Exoplanet là gì và tìm kiếm chúng như thế nào?
+
+
+# ─────────────────────────────────────────────────────────────────────────────
+# NHÓM E: VẬT LÝ & HIỆN TƯỢNG TỰ NHIÊN (~10% lượng hỏi)
+# ─────────────────────────────────────────────────────────────────────────────
+
+# E1 – Ánh sáng & quang học
+Tại sao bầu trời có màu xanh ban ngày?
+Tại sao bầu trời đỏ cam lúc hoàng hôn?
+Cầu vồng hình thành như thế nào?
+Ánh sáng trắng gồm những màu nào?
+Tốc độ ánh sáng là bao nhiêu?
+Gương phẳng và gương lõm khác nhau như thế nào?
+Kính lúp phóng đại hoạt động theo nguyên lý nào?
+Tia tử ngoại và tia hồng ngoại là gì?
+
+# E2 – Âm thanh
+Âm thanh truyền đi như thế nào?
+Tại sao trong không gian không có âm thanh?
+Hiệu ứng Doppler là gì?
+Siêu âm khác âm thanh thông thường như thế nào?
+Tại sao tiếng sấm đến sau tia chớp?
+Âm thanh truyền nhanh hơn trong nước hay trong không khí?
+
+# E3 – Lực & chuyển động
+Trọng lực là gì?
+Tại sao mọi vật đều rơi xuống?
+Tại sao các hành tinh không rơi vào Mặt Trời?
+Định luật Newton thứ nhất nói về điều gì?
+Lực quán tính là gì?
+Tại sao phi hành gia bay bồng bềnh trong trạm không gian?
+Tốc độ thoát khỏi Trái Đất là bao nhiêu?
+Tên lửa hoạt động theo nguyên lý nào?
+
+# E4 – Điện & từ
+Nam châm hút nhau và đẩy nhau hoạt động như thế nào?
+Trái Đất có từ trường không và tại sao?
+La bàn hoạt động dựa trên nguyên lý nào?
+Điện được tạo ra như thế nào trong nhà máy điện?
+Pin mặt trời chuyển đổi năng lượng như thế nào?
+
+# E5 – Nhiệt độ & vật chất
+Bốn trạng thái vật chất là gì?
+Plasma là gì và xuất hiện ở đâu?
+Nhiệt độ tuyệt đối là gì?
+Tại sao nước đá nổi trên nước lỏng?
+Tại sao kim loại dẫn điện còn nhựa thì không?
+
+
+# ─────────────────────────────────────────────────────────────────────────────
+# NHÓM F: SINH HỌC & KHOA HỌC SỰ SỐNG (~5% lượng hỏi)
+# ─────────────────────────────────────────────────────────────────────────────
+
+DNA là gì và mang thông tin gì?
+Tế bào hoạt động như thế nào?
+Quang hợp ở thực vật diễn ra như thế nào?
+Tại sao lá cây có màu xanh?
+Chuỗi thức ăn trong hệ sinh thái là gì?
+Vi khuẩn và virus khác nhau như thế nào?
+Hệ miễn dịch bảo vệ cơ thể như thế nào?
+Tại sao con người cần oxy để sống?
+Bộ não con người hoạt động như thế nào?
+Sinh vật phù du đóng vai trò gì trong đại dương?
+Sự tuyệt chủng của khủng long xảy ra vì điều gì?
+Biển và đại dương đang bị ô nhiễm như thế nào?
+
+
+# ─────────────────────────────────────────────────────────────────────────────
+# NHÓM G: CÔNG NGHỆ & TƯƠNG LAI (~5% lượng hỏi)
+# ─────────────────────────────────────────────────────────────────────────────
+
+Trí tuệ nhân tạo AI hoạt động như thế nào?
+Robot được lập trình như thế nào?
+Internet hoạt động như thế nào?
+Vệ tinh nhân tạo làm gì và quay quanh Trái Đất như thế nào?
+GPS định vị hoạt động theo nguyên lý gì?
+Tàu vũ trụ được phóng như thế nào?
+Trạm vũ trụ quốc tế ISS là gì?
+Năng lượng tái tạo gồm những loại nào?
+Pin xe điện hoạt động theo nguyên lý nào?
+In 3D hoạt động như thế nào?
+Kính hiển vi điện tử mạnh đến mức nào?
+Kính viễn vọng vũ trụ khác kính viễn vọng mặt đất như thế nào?
+
+
+# ─────────────────────────────────────────────────────────────────────────────
+# NHÓM H: CÂU HỎI ĐỊA PHƯƠNG & ĐẶC THÙ QUY NHƠN
+# ─────────────────────────────────────────────────────────────────────────────
+
+Tại sao đặt trung tâm khám phá khoa học tại Quy Nhơn?
+Quy Nhơn có đặc điểm địa lý hay thiên văn gì đặc biệt?
+Trung tâm có hợp tác với Trường Đại học Quy Nhơn không?
+Bầu trời Quy Nhơn vào mùa nào trong xanh nhất để quan sát sao?
+Biển Quy Nhơn có hiện tượng thiên nhiên nào thú vị về khoa học?
+Trung tâm có nghiên cứu về san hô hay sinh vật biển địa phương không?
+Quy Nhơn nằm ở vĩ độ nào và điều đó ảnh hưởng gì đến quan sát sao?
+Có thể thấy những chòm sao nào từ Quy Nhơn vào ban đêm?
+
+
+# ─────────────────────────────────────────────────────────────────────────────
+# NHÓM I: CÂU HỎI PHỔ BIẾN TỪ TRẺ EM
+# ─────────────────────────────────────────────────────────────────────────────
+
+Tại sao bầu trời màu xanh?
+Tại sao ban đêm có sao?
+Mặt Trời to cỡ nào?
+Mặt Trăng cách Trái Đất bao xa?
+Tại sao có ngày và đêm?
+Tại sao có 4 mùa?
+Tại sao trời mưa?
+Sấm sét hình thành như thế nào?
+Cầu vồng có mấy màu?
+Tại sao lửa có màu đỏ cam?
+Nước biển có vị mặn vì sao?
+Tại sao cá sống được dưới nước mà người thì không?
+Khủng long biến mất vì sao?
+Người có thể sống trên sao Hỏa không?
+Robot có thể thông minh như người không?
+Vũ trụ có bao giờ kết thúc không?
+Ngoài Trái Đất có sinh vật sống không?
+Phi hành gia ăn gì khi ở trong vũ trụ?
+Tên lửa cần nhiên liệu gì để bay vào vũ trụ?
+Điện thoại di động hoạt động như thế nào?
+
+
+# ─────────────────────────────────────────────────────────────────────────────
+# NHÓM J: CÂU HỎI SO SÁNH & PHÂN TÍCH
+# ─────────────────────────────────────────────────────────────────────────────
+
+Sao Hỏa và Trái Đất khác nhau như thế nào?
+Nhật thực và nguyệt thực khác nhau ở điểm gì?
+Thiên thạch, tiểu hành tinh và sao chổi khác nhau như thế nào?
+Kính viễn vọng quang học và kính viễn vọng vô tuyến khác nhau như thế nào?
+Ngôi sao và hành tinh khác nhau như thế nào?
+Dải ngân hà và thiên hà khác nhau hay là một?
+Lỗ đen và lỗ sâu đục không gian-thời gian khác nhau như thế nào?
+Năng lượng mặt trời và năng lượng hạt nhân khác nhau như thế nào?
+Pin lithium và pin nhiên liệu hydro khác nhau như thế nào?
+Vũ trụ quan sát được và vũ trụ thực sự khác nhau như thế nào?
+
+=============================================================================
+
+SEED QUESTIONS – Trung tâm Khám phá Khoa học Quy Nhơn
+
+=============================================================================
+
+Định dạng: Mỗi dòng = 1 câu hỏi thực tế. Dòng bắt đầu bằng # là ghi chú.
+
+Simulator sẽ ưu tiên tạo câu trả lời cho các câu chưa có trong cache.
+
+Cập nhật file này khi trung tâm bổ sung phòng, dịch vụ, thiết bị mới
+
+NHÓM 1: THÔNG TIN CHUNG, VÉ VÀ GIỜ MỞ CỬA
+
+Trung tâm Khám phá Khoa học Quy Nhơn nằm ở địa chỉ nào?
+Hướng dẫn tôi đường đi từ trung tâm thành phố Quy Nhơn đến đây.
+Từ sân bay Phù Cát di chuyển đến Trung tâm mất bao lâu và đi bằng phương tiện gì tiện nhất?
+Trung tâm có mở cửa vào thứ 2 không?
+Giờ hoạt động của trung tâm là từ mấy giờ đến mấy giờ?
+Giá vé vào cổng cho người lớn và trẻ em hiện nay là bao nhiêu?
+Trẻ em cao dưới 1 mét có được miễn phí vé vào cổng không?
+Có cần phải đặt vé trước khi đến không hay mua trực tiếp tại quầy?
+Trung tâm có mở cửa phục vụ khách trong các dịp lễ Tết không?
+Thời điểm nào trong ngày/trong tuần Trung tâm vắng khách nhất để dễ tham quan?
+Người cao tuổi, người khuyết tật, hoặc học sinh sinh viên có được giảm giá vé không?
+Đoàn đông người (trên 20 người) có chính sách ưu đãi giá vé không?
+Thủ tục mua vé khách đoàn cần liên hệ trước bao nhiêu ngày?
+Tôi có thể mua vé online qua website hoặc ứng dụng nào (như Momo, ZaloPay...)?
+Nếu tôi lỡ mua vé nhưng không đi được thì có được hoàn tiền hoặc dời ngày không?
+
+NHÓM 2: CÁC PHÒNG TRƯNG BÀY & KHÁM PHÁ (EXHIBITION)
+
+Trung tâm hiện tại có bao nhiêu phòng trưng bày tất cả?
+Phòng Hệ Mặt Trời có những mô hình gì đặc biệt?
+Ở đây có phòng trưng bày nào phù hợp cho trẻ em mầm non không?
+Phòng Khám phá sao Hỏa có cho phép tương tác trực tiếp không?
+Có khu vực nào cho phép chơi game thực tế ảo (VR) không?
+Có hướng dẫn viên thuyết minh tại các phòng trưng bày không?
+Tất cả các mô hình trưng bày có chú thích bằng tiếng Anh cho người nước ngoài không?
+Tham quan hết tất cả các phòng trưng bày mất khoảng bao lâu thời gian?
+Có khu vực nào giới thiệu về vật lý cơ học không?
+Quả cầu Plasma nằm ở khu vực nào và tôi có được phép chạm tay vào không?
+Mô hình quả cầu Omniglobe nằm ở phòng nào và nó hiển thị những gì?
+Phòng Toán học có những trò chơi tư duy nào thú vị?
+Góc check-in chụp ảnh nào trong khu vực trưng bày được yêu thích nhất?
+Các thiết bị tương tác nếu bị lỗi thì tôi nên báo cho ai?
+
+NHÓM 3: NHÀ CHIẾU HÌNH VŨ TRỤ (PLANETARIUM)
+
+Nhà chiếu hình vũ trụ (phòng chiếu phim) có sức chứa tối đa bao nhiêu người?
+Hiện tại trung tâm đang chiếu những bộ phim khoa học nào?
+Phim chiếu trong nhà vòm là phim 3D hay 2D?
+Xem phim ở nhà vòm có gây cảm giác chóng mặt không?
+Phim chiếu có thuyết minh tiếng Việt hay chỉ có phụ đề?
+Thời lượng của mỗi bộ phim chiếu hình vũ trụ là bao lâu?
+Lịch chiếu phim các ngày trong tuần được sắp xếp như thế nào?
+Trẻ em dưới 3 tuổi có được vào xem phim trong nhà vòm không?
+Tôi có cần mua vé riêng cho nhà chiếu hình hay đã bao gồm trong vé vào cổng?
+Trung tâm có phim khoa học về chủ đề khủng long hoặc đại dương không?
+Tôi có thể thuê nguyên rạp chiếu hình vũ trụ để tổ chức sự kiện riêng được không?
+
+NHÓM 4: ĐÀI THIÊN VĂN & QUAN SÁT (OBSERVATORY)
+
+Đài thiên văn Quy Nhơn có loại kính viễn vọng nào lớn nhất?
+Đường kính của kính thiên văn chính là bao nhiêu?
+Kính thiên văn này có thể quan sát được những hành tinh nào trong hệ mặt trời?
+Ban ngày tôi có thể lên đài thiên văn quan sát được không?
+Ban ngày kính thiên văn thường dùng để quan sát hiện tượng gì?
+Trung tâm có tổ chức ngắm sao vào ban đêm không? Khi nào thì tổ chức?
+Làm sao để đăng ký tham gia sự kiện quan sát thiên văn buổi tối?
+Tôi có thể dùng điện thoại chụp ảnh Mặt Trăng qua ống kính thiên văn được không?
+Vào mùa mưa bão hoặc những ngày bầu trời nhiều mây có lên đài thiên văn quan sát được không?
+Đài thiên văn có nằm cùng tòa nhà với khu trưng bày chính không?
+
+NHÓM 5: LỊCH TRÌNH, HOẠT ĐỘNG & SỰ KIỆN
+
+Sơ đồ tổng thể của trung tâm được bố trí như thế nào?
+Nếu tôi chỉ có 2 tiếng đồng hồ thì nên ưu tiên tham quan những khu vực nào nhất?
+Gợi ý cho tôi một lịch trình tham quan tối ưu trong trọn một buổi sáng.
+Cuối tuần này trung tâm có tổ chức sự kiện khoa học, workshop hay cuộc thi nào không?
+Có khu vực nào tổ chức các trò chơi thí nghiệm hóa học/vật lý trực tiếp (Science Show) không?
+Trung tâm có chương trình ngoại khóa, dã ngoại dành riêng cho các trường học không?
+Trung tâm có tổ chức hoạt động cắm trại qua đêm kết hợp ngắm sao không?
+Làm thế nào để đăng ký cho con tôi tham gia lớp học làm tên lửa nước/lắp ráp robot?
+Trung tâm có tour tham quan có hướng dẫn viên đi kèm (Guided Tour) không?
+
+NHÓM 6: DỊCH VỤ & TIỆN ÍCH KÈM THEO
+
+Tại trung tâm có bãi đậu xe ô tô 45 chỗ không? Có thu phí gửi xe không?
+Trong khuôn viên trung tâm có bán đồ ăn trưa, nhà hàng hoặc quán cà phê không?
+Quán cà phê/căn tin có phục vụ đồ ăn chay hoặc thức ăn nhẹ cho trẻ em không?
+Tôi có thể mua quà lưu niệm, đồ chơi khoa học ở đâu trong trung tâm?
+Có cho phép mang đồ ăn thức uống từ bên ngoài vào phòng trưng bày không?
+Trung tâm có trang bị lối đi riêng, thang máy và xe lăn cho người khuyết tật không?
+Có khu vực ghế ngồi nghỉ ngơi cho khách tham quan khi mỏi chân không?
+Trung tâm có cung cấp tủ khóa (locker) để giữ đồ cá nhân hoặc hành lý lớn không?
+Có wifi miễn phí phủ sóng toàn trung tâm cho khách sử dụng không?
+Nhà vệ sinh có khu vực thay tã hoặc bồn cầu kích thước nhỏ cho trẻ em không?
+Tôi để quên đồ đạc cá nhân tại trung tâm thì liên hệ bộ phận nào để tìm lại?
+Có xe điện hỗ trợ di chuyển giữa các khu vực trong khuôn viên trung tâm không?
+
+NHÓM 7: KIẾN THỨC KHOA HỌC PHỔ QUÁT (Dùng để AI thể hiện kiến thức RAG)
+
+Tại sao bầu trời lại có màu xanh?
+Hệ mặt trời của chúng ta có bao nhiêu hành tinh, tên của chúng là gì?
+Sự khác biệt giữa sao chổi, sao băng và tiểu hành tinh là gì?
+Lỗ đen vũ trụ là gì, ở trung tâm có mô hình về lỗ đen không?
+Lực hấp dẫn là gì và tại sao chúng ta không bị văng ra khỏi Trái Đất?
+Ánh sáng đi từ Mặt Trời đến Trái Đất mất bao lâu?
+Vì sao các phi hành gia lại lơ lửng khi ở trên trạm không gian ISS?
+Năng lượng tái tạo là gì và có những loại nào phổ biến?
+Hiện tượng nhật thực và nguyệt thực xảy ra như thế nào?
+Vũ trụ của chúng ta có bao nhiêu thiên hà và Trái Đất nằm ở thiên hà nào?
+Công nghệ Trí tuệ nhân tạo (AI) hoạt động dựa trên nguyên lý cơ bản nào?
+
+NHÓM 8: TƯƠNG TÁC VỚI TRỢ LÝ ẢO (EXPLORA)
+
+Bạn là ai? Bạn có thể giúp gì cho tôi?
+Explora có thể nhận diện hình ảnh tôi gửi lên không?
+Nếu tôi bị lạc trong trung tâm, bạn có thể hiển thị bản đồ hướng dẫn tôi không?
+Explora được tạo ra như thế nào và do ai phát triển?
+Bạn có hỗ trợ trả lời bằng tiếng Anh hoặc các ngôn ngữ khác ngoài tiếng Việt không?
+Bạn có biết kể chuyện cười hoặc sự thật thú vị (fun facts) về vũ trụ không?
+Cho tôi xem một vài ví dụ về những câu hỏi khó nhất mà bạn có thể trả lời.
+Cơ sở dữ liệu của bạn được cập nhật đến thời điểm nào rồi?

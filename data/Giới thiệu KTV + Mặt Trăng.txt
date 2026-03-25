@@ -1,0 +1,106 @@
+﻿Trung tâm Khám phá khoa học và Đổi mới sáng tạo
+ExploraScience Quy Nhon
+
+
+
+
+Chủ đề:
+GIỚI THIỆU KÍNH THIÊN VĂN VÀ MẶT TRĂNG
+
+
+
+
+
+
+
+Quy Nhơn, năm 2022
+
+
+PHẦN 1. KÍNH THIÊN VĂN
+    Kính thiên văn (kính viễn vọng) là một dụng cụ giúp quan sát các vật thể nằm ở khoảng cách xa so với mắt của con người. Kính viễn vọng được ứng dụng trong quan sát thiên văn học, hay trong công tác hoa tiêu của ngành hàng hải, hàng không hay công nghệ vũ trụ, cũng như trong quan sát và do thám quân sự. Trong các ứng dụng thiên văn, chúng còn được gọi là kính thiên văn.
+    Trong lịch sử, kính viễn vọng đầu tiên được chế tạo sử dụng các dụng cụ quang học, để thu nhận ánh sáng đến từ vật thể ở xa và tạo ra hình ảnh phóng đại dễ dàng quan sát bởi mắt người. Chúng là các kính viễn vọng quang học. Sau này, các loại kính viễn vọng khác được chế tạo, sử dụng bức xạ điện từ nằm ở bước sóng khác, đến từ vật thể ở xa, như radio, hồng ngoại, tử ngoại, tia X, gamma,...
+1.1. Lịch sử kính thiên văn, các quá trình hình thành kính
+    Cũng như nhiều phát minh lớn vào thời cổ và trung đại, kính thiên văn được sáng chế ra qua một sự kiện tình cờ may mắn. Đến cuối thế kỷ 16 đầu thế kỷ 17, việc chế tạo kính mắt trở thành phổ biến đã trở thành điều kiện thuận lợi cho việc ra đời của kính thiên văn.
+    Một cơ hội may mắn đã đến với Hans Lippershey (1570-1619) là một nhà chế tạo kính mắt sống tại Middelburg, Hà Lan. Vào năm 1608, con trai Hans Lippershey, trong khi nghịch các kính mắt của bố, đã phát hiện ra và báo cho bố biết có thể nhìn thấy tháp chuông nhà thờ gần hơn, thậm chí thấy cả mấy con chim đang nấp dưới gác chuông qua 2 kính mắt. Thay vì “đét” vào mông chú nhóc nghịch ngợm, Lippershey đã cùng “nghịch” với con trai.
+    Hans Lippershey đã nghiên cứu cẩn thận và phát hiện ra 2 kính mắt thích hợp đặt thẳng hàng nhau ở một khoảng cách nào đó, thật sự có tác dụng “kéo gần” lại những vật ở rất xa. Ông đã đưa ra nguyên lý phóng đại khi kết hợp các thấu kính và chế tạo ra ống kính nhìn xa, tiền thân của kính thiên văn quang học. Chiếc kính được gọi là “Chiếc ống ma thuật của Lippershey” đã nhanh chóng nổi tiếng khắp Châu Âu. Thiết kế của Lippershey cơ bản bao gồm một vật kính lồi và một thị kính lõm. Thiết bị này có khả năng phóng đại vật thể lên 3 lần so với kích thước gốc.
+    Khi Galileo Galilei nghe tin về kính viễn vọng của Hans Lippershey vào năm 1609, ông ngay lập tức bắt tay vào thiết kế mà không hề xem qua thiết bị của Hans. Ông đã cải thiện đáng kể năng lực của kính thiên văn và đạt được độ phóng đại lên đến 20 lần. Hơn thế nữa, Galileo trở thành người đầu tiên hướng kính viễn vọng lên bầu trời và và phát hiện ra bốn vệ tinh lớn nhất của Sao Mộc vào năm 1610.
+    (Chỉ một phần tóm tắt ngắn vì phần lịch sử kính thiên văn và tiến trình phát triển có nói đến tại Khu triển lãm lịch sử Thiên văn học)
+1.2. Phân loại kính thiên văn
+    Kính thiên văn có nhiều loại khác nhau. Đồng thời cũng có nhiều cách phân loại: dựa trên sự sắp xếp thấu kính và gương; dựa trên loại bức xạ mà kính đó tiếp nhận; dựa trên điều kiện bên ngoài mà chúng có thể chịu được,… Nhưng có ba loại kính thiên văn cơ bản, cội nguồn để phát triển những phiên bản cải tiến hơn. Ba loại đó là:
+a) Kính thiên văn khúc xạ (refractor) – Kính thiên văn đầu tiên được phát triển là kính khúc xạ. Kính thiên văn khúc xạ sử dụng một thấu kính để thu nhận và hội tụ ánh sáng. Các thấu kính đặt phía trước kính thiên văn và ánh sáng bị bẻ cong (khúc xạ) khi đi qua các thấu kính này. Phần lớn những người bắt đầu tìm hiểu thiên văn sẽ dùng kính khúc xạ bởi vì chúng dễ sử dụng và cần ít bảo dưỡng hơn các loại khác.
+b) Kính thiên văn phản xạ (reflector) – Kính phản xạ sử dụng gương để thu nhận và hội tụ ánh sáng. Tất cả thiên thể đều nằm quá xa đến nỗi ánh sáng từ chúng đến Trái Đất là các tia sáng song song. Vì các tia sáng song song với nhau, gương của kính thiên văn phản xạ được làm thành dạng cong parabol để có thể hội tụ các tia sáng song song vào một điểm. Tất cả kính thiên văn phục vụ nghiên cứu và các kính thiên văn nghiệp dư lớn hiện nay đều là kính phản xạ bởi vì chúng có những ưu điểm vượt trội hơn kính khúc xạ.
+c) Kính thiên văn phức hợp/tổ hợp (Compound/Catadioptric Telescopes) – Kính thiên văn phức hợp có thể xem là “con lai” giữa kính phản xạ và kính khúc xạ. Chúng kết hợp những đặc tính tốt nhất của cả hai loại.
+1.3. Phân loại chân đế của Kính thiên văn
+    Chân đế cũng được chia thành nhiều loại từ bình thường đến cao cấp, cụ thể:
+a) Chân đế theo tọa độ đường chân trời (Horizontal mount): đơn giản nhất, sử dụng trực quan nhất thường gặp ở những kính đơn giản có giá rẻ cho người mới làm quen. Nó chỉ có nhiệm vụ đơn giản là đỡ ống kính, chỉnh kính hướng lên xuống, qua trái qua phải, cố định tại một điểm (khá giống với kiềng ba chân của máy ảnh). Ai cũng có thể dễ dàng sử dụng loại chân đế này ngay cả trẻ con . Loại kính cho trẻ con làm quen với đều cũng sử dụng loại chân này.
+b) Chân đế theo Độ cao - Phương vị (Altitude - Azimuth mount)
+Đây là loại chân đế thường dùng cho kính thiên văn lớn đặt cố định ở các đài thiên văn, không có kiềng ba chân mà chỉ có một bệ nặng cố định với mặt đất để gánh trọng lượng lớn của kính. Hệ thống gồm 2 trục xoay, một trục đặt nằm song song với mặt phẳng đường chân trời, trục kia đặt vuông góc với mặt phẳng đường chân trời theo hướng dây rọi hướng thẳng lên thiên đỉnh. Hệ thống này khá giống với hệ thống chân đế đơn giản nhưng có hỗ trợ hệ thống thước đo tọa độ chuyên dụng. Thường dùng cho kiểu kính Dobsonian.
+c) Chân đế theo tọa độ xích đạo trời (Equatorial Mount): Đây là loại cao cấp hơn, nó kèm theo các vòng tròn chia độ kinh vĩ bầu trời để người quan sát có thể dễ dàng tìm được đối tượng quan sát thông qua tọa độ đã biết từ bản đồ sao và tài liệu. Việc sử dụng loại chân này khá phức tạp và đòi hỏi phải hiểu biết về hệ thống kinh vĩ độ trời, sự chuyển động của thiên thể trên bầu trời. Loại này có nhiều khớp điều chỉnh hơn kèm theo nhiều khóa (lock knob) và vòng tinh chỉnh. Có loại còn hỗ trợ gắn motor vào để hỗ trợ quan sát (sẽ đề cập trong phần sau). Loại chân đế này thường được dùng trong những kính phổ thông thuộc loại trung và có giá trung bình.
+    Vài bộ phận cơ bản của loại chân đế này: Trục cực (Right Ascension), trục nghiêng (Declination), vòng quay góc phương vị (Azimuth), Các vòng chia kinh vĩ độ trời và vĩ độ trái đất, các vòng tinh chỉnh kinh vĩ độ trời, đối trọng của kính (Counterweight)
+d) Chân đế điện tử (Electronic mount): Đây là loại chân đế cao cấp nhất thường xuất hiện trong những kính thiên văn loại lớn, cao cấp có giá rất đắc. Kính thiên văn sử dụng loại chân này được gọi là kính thông minh (Smart telescope). Sở dĩ có tên gọi như thế là do hệ thống chân đế này hoàn toàn tự động, hoạt động bằng điện. Để sử dụng được loại kính này người quan sát cũng phải có những kiến thức cơ bản về bầu trời cùng cách vận hành hệ thống tùy loại chân đế. Loại chân này hỗ trợ quan sát cùng nhiếp ảnh thiên văn rất tốt, người sử dụng chỉ việc nhập thông số tọa độ, múi giờ nơi mình sống và tọa độ trời của đối tượng, kính sẽ tự động xoay đến đối tượng cần quan sát đồng thời di chuyển theo đối tượng theo thời gian khi thiên cầu xoay. Nếu không có tọa độ người sử dụng có thể chọn trong menu có sẵn của kính, tùy từng loại hỗ trợ nhiều hay ít từ vài nghìn đến vài chục nghìn đối tượng được lập trình sẵn, dĩ nhiên cả 8 hành tinh, mặt trời, mặt trăng. Có hai kiểu thiết kế chân đế điện tử: Thiết kế theo hệ tọa độ xích đạo trời - Equatorial Mount, thiết kế theo hệ tọa độ đường chân trời - Altitude - Azimuth mount.
+1.4. Thuật ngữ cơ bản liên quan đến kính thiên văn
+    Vật kính (Objective lens) – Thấu kính đặt phía trước được gọi là vật kính hoặc thấu kính sơ cấp. Nó thu gom ánh sáng từ các vật thể xa xôi và hội thụ vào một điểm.
+    Độ mở (Aperture) – Đường kính của gương/thấu kính sơ cấp được gọi là độ mở (khẩu độ). Độ mở càng lớn, hình ảnh tạo thành càng sáng. Một kính thiên văn nghiệp dư tốt thường có độ mở từ 80 đến 300 mm. Trong khi đó, một số kính thiên văn chuyên nghiệp cỡ lớn, trị giá hàng tỉ đô la có độ mở của gương lên tới 10 mét.
+    Tiêu cự (Focal Length) – Khi chạm tới gương hoặc xuyên qua thấu kính, ánh sáng sẽ bị điều chỉnh để hội tụ tại tiêu điểm thuộc mặt phẳng nằm xa hơn. Khoảng cách giữa tâm của một thấu kính hoặc gương cầu và tiêu điểm của nó được gọi là tiêu cự.
+    Thị kính (Eyepiece) – Thị kính ám chỉ một ống nhỏ có chứa các thấu kính với nhiệm vụ tạo nên hình ảnh cuối cùng để người quan sát nhìn thấy. Các kính thiên văn thường có ít nhất hai thị kính: một cái cho độ phóng đại thấp và cái thứ hai cho độ phóng đại cao hơn.
+    Độ phóng đại (Magnifying Power)– Thông số này cho ta biết khả năng kính thiên văn tăng kích thước biểu kiến của đối tượng quan sát. Độ phóng đại có thể được xác định bằng cách chia tiêu cự của kính thiên văn (tức của vật kính) cho tiêu cự của thị kính. Vậy nên tiêu cự của thị kính càng lớn, độ phóng đại đạt được càng nhỏ, tuy nhiên hình ảnh nhận được lại sáng hơn.
+    Độ phóng đại của KTV được tính bởi công thức: M = F/f. 
+    Với F là tiêu cự vật kính và f là tiêu cự thị kính
+    Ví dụ: Một KTV 10” f/6 dùng kèm với thị kính 16mm. Vậy độ phóng đại của kính lúc này là bao nhiêu?
+    Giải: Tiêu cự vật kính F= 10×6 = 60 in = 1524 mm
+🡺 Độ phóng đại M = F/f = 1524/16 = 95 (lần)
+    Độ phóng đại của kính thực ra không phải là một thông số quan trọng lắm, vì việc thay đổi độ phóng đại được thực hiện rất đơn giản là chỉ cần thay đổi thị kính có tiêu cự khác nhau. Một thông số khác quan trọng hơn phụ thuộc vào độ mở ống kính, đó là khả năng phân giải của KTV.
+
+
+PHẦN 2. MẶT TRĂNG
+2.1. Các pha Mặt Trăng
+a) Trăng thượng huyền: Mặt Trăng sẽ có hình dạng bán nguyệt và xuất hiện ở thiên đỉnh vào đầu buổi tối, sau đó lặn dần về phía tây. Những ngày quanh ngày này là thuận lợi nhất để quan sát Mặt Trăng qua kính thiên văn hay ống nhòm. Các miệng hố trên Mặt Trăng sẽ xuất hiện rõ trên bề mặt của vệ tinh tự nhiên này.
+b) Trăng tròn: Mặt Trăng sẽ ở vị trí xung đối và bề mặt của nó sẽ phản xạ tối đa ánh sáng Mặt Trời về phía Trái Đất.
+c) Trăng hạ huyền: Mặt Trăng sẽ có hình dạng bán nguyệt và mọc từ sau nửa đêm. Những ngày quanh ngày này là thuận lợi nhất để quan sát Mặt Trăng qua kính thiên văn hay ống nhòm. Các miệng hố trên Mặt Trăng sẽ xuất hiện rõ trên bề mặt của vệ tinh tự nhiên này.
+d) Trăng mới: Mặt Trăng sẽ xuất hiện cùng phía với Mặt Trời và sẽ không hiện diện trên bầu trời đêm. Đây là thời điểm tốt nhất tháng để quan sát các vật thể mờ như các thiên hà hay các cụm sao bởi vì không có sự lấn át của ánh trăng.
+2.2. Giới thiệu về Mặt Trăng
+a) Lịch sử hình thành Mặt Trăng
+    Mặt Trăng, người bạn đồng hành trung thành của Trái Đất, một trong những nhân tố góp phần quan trọng trong việc hình thành và duy trì sự sống của các sinh vật, trong đó có con người. Mặt Trăng là vệ tinh tự nhiên duy nhất của Trái Đất đồng thời là vệ tinh tự nhiên lớn thứ năm trong Hệ Mặt Trời. Nếu xét về tỷ lệ kích thước so với hành tinh mà nó quay quanh thì Mặt Trăng đạt tỷ lệ này cao nhất trong Hệ Mặt Trời. Cho đến nay, đây cũng là thiên thể duy nhất ngoài Trái Đất mà con người từng đặt chân tới.
+    Mặt Trăng hình thành khoảng hơn 4,5 tỷ năm trước. Đa số các giả thuyết từ sớm về nguồn gốc hình thành Mặt Trăng theo một trong ba ý tưởng chính. Ý tưởng thứ nhất cho rằng vật chất văng ra từ Trái Đất trong thời kỳ đang hình thành bởi lực ly tâm, sau đó tập hợp lại thành Mặt Trăng. Tuy nhiên điều này đòi hỏi Trái Đất phải quay nhanh đến mức phi thực tế. Ý tưởng thứ hai giả định trường hấp dẫn của Trái Đất đã thu hút thiên thể Mặt Trăng đến từ nơi khác, nhưng việc này đòi hỏi khí quyển Trái Đất hấp thụ động năng của Mặt Trăng khi nó bay tới - một khả năng rất khó xảy ra. Ý tưởng thứ ba đề xuất sự hình thành cùng lúc của Trái Đất và Mặt Trăng từ đĩa bồi tụ khi Hệ Mặt Trời đang hình thành. Phương án này không giải thích được tại sao Mặt Trăng lại có các tính chất khác với Trái Đất, ví dụ như ít kim loại hơn hẳn so với Trái Đất. Ý tưởng thứ nhất và thứ ba cũng không tiên đoán được mômen động lượng của hệ Trái Đất - Mặt Trăng.
+    Để giải thích thỏa đáng nhiều bằng chứng thực nghiệm, một giả thuyết khác đã được xây dựng, gọi là giả thuyết va chạm lớn. Giả thuyết này cho rằng hệ Trái Đất - Mặt Trăng hình thành sau một vụ va chạm lớn, lệch tâm, giữa một thiên thể có kích thước cỡ Sao Hỏa, tên là Theia, với thiên thể tiền Trái Đất. Vụ va chạm đã làm văng nhiều vật chất vào không gian, một phần rời xa Trái Đất, một phần dần tích tụ thành một đĩa bồi tụ quanh Trái Đất rồi từ đó hình thành nên Mặt Trăng. Vào một hội nghị bàn về nguồn gốc Mặt Trăng năm 1984 ở Kona, Hawaii, giả thuyết va chạm lớn bắt đầu được đa số tán thành là hợp lý.
+b) Một số thông số của Mặt Trăng
+    Bề mặt Mặt Trăng có các biển Mặt Trăng là các vùng vật chất tối màu có nguồn gốc từ hoạt động núi lửa cũ, nằm chủ yếu ở mặt gần, giữa các vùng vỏ cũ cao sáng màu có rất nhiều hố va chạm. Các hố va chạm trên Mặt Trăng được bảo quản tốt và cung cấp nhiều thông tin về quá khứ của Hệ Mặt Trời. Trọng trường ở bề mặt Mặt Trăng bằng khoảng 1/6 (1,62 m/s²) so với Trái Đất. Nhiệt độ thay đổi mạnh theo điều kiện nhận ánh sáng Mặt Trời, trung bình từ khoảng -180°C vào ban đêm đến trên 100 °C vào ban ngày tại xích đạo. Tồn tại hàng trăm tỷ tấn nước đá ở đáy những hố va chạm gần cực, nơi vĩnh viễn không nhận được ánh nắng.
+    Đường kính tại xích đạo: 3.476,2 km (bằng 0,273 lần Trái Đất/ TĐ gấp gần 3,66 lần MT).
+    Đường kính từ cực đến cực: 3.472,0 km (bằng 0,273 lần Trái Đất).
+    Diện tích bề mặt: 3,793 x 10^7 km2 (bằng 0,074 lần Trái Đất).
+    Thể tích: 2,197 x 10^10 km2 (bằng 0,02 lần Trái Đất).
+    Khối lượng: 7,347 673 x 10^22 kg (bằng 0,0123 lần Trái Đất).
+    Khoảng cách trung bình tính từ tâm của Trái Đất tới Mặt Trăng là 384.403 km.
+    VD: Khoảng cách từ QN đến TP HCM là 650 km thì phải gấp gần 590 lần khoảng cách từ QN đến HCM.
+    Ngoài ra do Mặt Trăng là vệ tinh của Trái Đất nên khoảng cách giữa nó với Mặt Trời cũng gần tương đương với khoảng cách từ Trái Đất đến Mặt Trời, tức là khoảng 150.000.000 km.
+     
+c) Chu kỳ quay của Mặt Trăng quanh Trái Đất
+    Mặt Trăng quay một vòng quanh Trái Đất với chu kỳ quỹ đạo 27,32 ngày. Vì Mặt Trăng nằm trên quỹ đạo quay đồng bộ (tức là thời gian Mặt Trăng quay quanh trục của chính nó và quay quanh Trái Đất là như nhau) nên một mặt của nó luôn luôn hướng về Trái Đất. Phần bên kia không nhìn thấy còn được gọi là “Phần tối” của Mặt Trăng.
+    Trong tương lai xa, khoảng cách từ Mặt Trăng đến Trái Đất sẽ tăng dần, do hiệu ứng thủy triều, và Mặt Trăng sẽ xuất hiện nhỏ dần.
+d) Các hiện tượng thiên thực liên quan đến Mặt Trăng
+    Nhật thực là hiện tượng xảy ra khi Mặt Trăng đi qua giữa Trái Đất và Mặt Trời trên cùng một đường thẳng và quan sát từ Trái Đất, lúc đó Mặt Trăng che khuất hoàn toàn hay một phần Mặt Trời. Điều này chỉ có thể xảy ra tại thời điểm trăng non khi nhìn từ Trái Đất, lúc Mặt Trời bị Mặt Trăng che khuất và bóng của Mặt Trăng phủ lên Trái Đất. Trong lúc nhật thực toàn phần, đĩa Mặt Trời bị che khuất hoàn toàn. Với nhật thực một phần hoặc hình khuyên, đĩa Mặt Trời chỉ bị che khuất một phần.
+    Nguyệt thực là hiện tượng thiên văn khi Mặt Trăng đi vào hình chóp bóng của Trái Đất, đối diện với Mặt Trời. Điều này chỉ có thể xảy ra khi Mặt Trời, Trái Đất và Mặt Trăng thẳng hàng hoặc xấp xỉ thẳng hàng với nhau, với Trái Đất ở giữa. Do vậy, nguyệt thực chỉ có thể xảy ra vào những ngày trăng tròn. Kiểu và chiều dài của nguyệt thực phụ thuộc vào vị trí của Mặt trăng so với các điểm nút quỹ đạo của nó.
+    Nguyệt thực toàn phần xảy ra khi ánh sáng mặt trời trực tiếp bị bóng của Trái Đất che khuất hoàn toàn. Ánh sáng duy nhất nhìn thấy được là khúc xạ qua bóng tối của Trái Đất. Ánh sáng này có màu đỏ vì cùng lý do hoàng hôn có màu đỏ, do sự tán xạ Rayleigh của các tia sáng màu có bước sóng ngắn hơn. Bởi vì màu đỏ của nó, nguyệt thực toàn phần đôi khi được gọi là mặt trăng máu.
+    Không giống như nhật thực chỉ có thể được nhìn thấy từ một khu vực nào đó tương đối nhỏ trên thế giới, nguyệt thực có thể được nhìn từ bất cứ nơi nào ở nửa tối của Trái Đất. Nguyệt thực kéo dài trong vài giờ, trong khi nhật thực toàn phần chỉ kéo dài trong vài phút tại bất kỳ vị trí nào do kích thước nhỏ hơn của bóng của Mặt trăng. Không giống như nhật thực, nguyệt thực có thể quan sát một cách an toàn bằng mắt thường vì hình ảnh nguyệt thực mờ hơn so với hình ảnh mặt trăng đầy đủ.
+2.3. Các Khám phá về Mặt Trăng
+a) Mặt Trăng từng tồn tại bầu khí quyển?? 
+    Các nhà khoa học Mỹ phát hiện trên Mặt Trăng từng tồn tại bầu khí quyển cách đây khoảng  3–4 tỷ năm, khí quyển này hình thành khi các núi lửa phun trào và đẩy chất khí lên nhanh đến nỗi chúng chưa kịp phân tán vào vũ trụ.
+    Bề mặt Mặt Trăng có rất nhiều vùng trũng chứa đầy đá núi lửa. Những vùng đá núi lửa này hình thành khi mắc ma bên dưới phun lên trên, tạo ra những dòng chảy dung nham.
+    Phi hành gia từ các nhiệm vụ Apollo của NASA từng mang một số mẫu vật từ các vùng đá núi lửa này về Trái Đất. Những phân tích trước đây cho thấy các dòng dung nham trên Mặt Trăng chứa CO, một số loại khí khác, lưu huỳnh, thậm chí các khối băng.
+    Tuy nhiên, nhóm khoa học Mỹ đã nghiên cứu sâu hơn những mẫu vật này và nhận thấy Mặt Trăng từng giữ được khí quyển một thời gian ngắn. Nhóm nghiên cứu sử dụng các mẫu vật để tính toán lượng khí bay lên và tích tụ thành khí quyển tạm thời. Họ phát hiện hoạt động núi lửa trên Mặt Trăng diễn ra mạnh mẽ nhất vào 3,5 tỷ năm trước, giúp bầu khí quyển trên thiên thể này đạt mức dày nhất.
+    Mặt Trăng hiện không còn khí quyển do thiếu từ trường và khối lượng đủ lớn để giữ khí quyển bao quanh, khác với Trái Đất. Khí quyển hình thành trên Mặt Trăng sẽ nhanh chóng bị gió Mặt Trời xua tan.
+b) Nước và sự sống trên Mặt Trăng??
+    Nước lỏng không tồn tại trên bề mặt Mặt Trăng. Với điều kiện trên bề mặt, nước sẽ bị bức xạ cực tím từ Mặt Trời phân ly thành các chất khác. Môi trường tự nhiên của Mặt Trăng không hỗ trợ sự sống vì bức xạ Mặt Trời mạnh, gần như không có khí quyển, nhiệt độ cao vào ban ngày. Tổng lượng vi sinh vật mà các tàu vũ trụ đã mang lên Mặt Trăng trong các nhiệm vụ thám hiểm có tiếp xúc với bề mặt là khoảng 46 tỉ tế bào hoặc bào tử, nhưng hầu hết được cho là không thể sống quá 1 tháng.
+c) Mặt Trăng có những ảnh hưởng gì đến Thủy triều trên Trái Đất??
+    Theo định luật vạn vật hấp dẫn, lực hấp dẫn giữa hai vật thể giảm dần theo bình phương khoảng cách giữa chúng. Do vậy, với hệ hai thiên thể ở cạnh nhau, phần bề mặt trên thiên thể này nằm gần thiên thể kia hơn sẽ chịu lực hút mạnh hơn một chút so với phần nằm xa. Chênh lệch lực hút này tạo ra lực thủy triều. Đối với hệ Trái Đất - Mặt Trăng, lực thủy triều bóp méo cả Trái Đất và Mặt Trăng, gây ra nhiều hiệu ứng quan sát được.
+    Nếu Mặt Trăng từng tự quay quanh trục của nó với tốc độ nhanh hơn hoặc chậm hơn tốc độ hiện tại, lực thủy triều làm tốc độ này thay đổi dần cho đến khi chu kỳ tự quay đúng bằng chu kỳ quỹ đạo quanh Trái Đất, khiến Mặt Trăng luôn hướng một mặt về Trái Đất - được gọi là bị khóa đồng bộ (hay khóa thủy triều.
+    Ma sát trong các khối đại dương chuyển động dưới lực thủy triều, và ở mức độ nhỏ hơn là ma sát trong chuyển động dẻo của lõi đất đá, làm tiêu tán dần năng lượng tự quay của Trái Đất, khiến ngày Trái Đất dài thêm khoảng 0,002 giây sau mỗi thế kỷ.
+    Nếu quá trình này tiếp tục diễn ra, chu kỳ tự quay của Trái Đất sẽ dài ra đến khi bằng với chu kỳ quỹ đạo của chuyển động quay quanh nhau của hệ Trái Đất - Mặt Trăng, tạo ra khóa thủy triều ở cả hai thiên thể. Khi đó Mặt Trăng sẽ đứng yên tại một kinh tuyến, như một vệ tinh địa tĩnh. Tuy nhiên, trong tương lai, Mặt Trời sẽ trở thành một sao đỏ khổng lồ và sẽ nuốt chửng hệ Trái Đất - Mặt Trăng trước khi hiện tượng khóa thủy triều ở cả hai thiên thể này xảy ra.
+d) Lịch sử khám phá Mặt Trăng của con người??
+    Từ TK V TCN con người đã có những ghi chép về Mặt Trăng (chu kỳ thiên thực, Ánh sáng Mặt Trăng,...)
+    Đến TK XX. Năm 1959, Liên Xô đã thành công khi đưa các tàu không gian thuộc dự án Luna tiếp cận MT và chụp những hình ảnh về mặt tối của MT. Sau năm 1961, Liên Xô thành công đưa được người đầu tiên lên không gian - Yuri Gagarin. Thì đến năm 1969, Mỹ đã sử dụng tàu Apollo 11 thành công đưa được người đầu tiên lên Mặt Trăng, đó là Neil Armstrong, Sự kiện này đã được truyền hình trực tiếp và ước chừng có khoảng 600 triệu người trên toàn cầu đã xem.
+    Từ năm 1970 đến nay, có nhiều quốc gia đã tham gia vào quá trình khám phá Mặt Trăng: Có thể kể đến đó là Nhật Bản, Trung Quốc, Ấn Độ,...
+
+2
+
+
