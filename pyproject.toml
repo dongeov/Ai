@@ -1,0 +1,73 @@
+[project]
+name = "ai-chatbox"
+version = "3.2.0"
+description = "RAG Chatbot with ChromaDB, Cloud MiMo-V2.5 + local LM Studio fallback"
+requires-python = ">=3.10"
+
+# ============================================================================
+# Taskipy – run `task <name>` for common dev tasks
+# ============================================================================
+[tool.taskipy.tasks]
+dev = "python run.py"
+start = "python app.py"
+lint = "ruff check src/ tests/"
+format = "ruff format src/ tests/"
+typecheck = "mypy src/ --ignore-missing-imports"
+check = "task lint && task typecheck"
+test = "pytest tests/ -v"
+test-cov = "pytest tests/ -v --cov=src --cov-report=term --cov-report=xml"
+precommit = "pre-commit run --all-files"
+clean = "python -c \"import shutil, pathlib; [shutil.rmtree(p) for p in pathlib.Path('.').glob('**/__pycache__') if p.is_dir()]\""
+
+# ============================================================================
+# Ruff – Fast Python linter and formatter
+# ============================================================================
+[tool.ruff]
+line-length = 120
+target-version = "py310"
+
+[tool.ruff.lint]
+select = ["E", "F", "W", "I", "N", "UP", "B", "SIM"]
+
+[tool.ruff.format]
+quote-style = "double"
+
+# ============================================================================
+# Pytest
+# ============================================================================
+[tool.pytest.ini_options]
+testpaths = ["tests"]
+python_files = ["test_*.py"]
+python_functions = ["test_*"]
+addopts = "-ra -q"
+
+# ============================================================================
+# Mypy – Static type checking
+# ============================================================================
+[tool.mypy]
+python_version = "3.10"
+ignore_missing_imports = true
+warn_unused_configs = true
+warn_redundant_casts = true
+strict = false
+disallow_untyped_defs = false
+
+[[tool.mypy.overrides]]
+module = ["src.utils.*"]
+disallow_untyped_defs = false
+
+# ============================================================================
+# Coverage
+# ============================================================================
+[tool.coverage.run]
+source = ["src"]
+omit = ["*/tests/*", "*/__init__.py"]
+
+[tool.coverage.report]
+exclude_lines = [
+    "pragma: no cover",
+    "def __repr__",
+    "raise AssertionError",
+    "raise NotImplementedError",
+    "if __name__ == .__main__.:",
+]
